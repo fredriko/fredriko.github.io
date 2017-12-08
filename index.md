@@ -1,6 +1,6 @@
 # Fredrik Olsson
 
-Ph.D. Computational linguistics
+Ph.D., Computational linguistics
 
 Data scientist, software developer, Chief Data Officer @ [gavagai.se](http://gavagai.se)
 
