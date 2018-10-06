@@ -4,7 +4,7 @@ Ph.D., Computational linguistics
 
 Data scientist, software developer, and all things data enthusiast. 
 
-Research Scientist @ [Swedish Defence Research Agency](https://www.foi.se/en.html), and Partner @ [gavagai.se](http://gavagai.se)
+Senior Research Scientist @ [RISE AI](https://www.ri.se/en), and Partner @ [gavagai.se](http://gavagai.se)
 
 Creator of [metacurate.io](https://metacurate.io/)
 
