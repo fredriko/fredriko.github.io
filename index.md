@@ -2,7 +2,7 @@
 
 Ph.D., Computational linguistics
 
-Data scientist, software developer, and all things data enthusiast. 
+Software developer and all things data enthusiast. 
 
 Senior Research Scientist @ [RISE AI](https://www.ri.se/en), and Partner @ [gavagai.se](http://gavagai.se)
 
