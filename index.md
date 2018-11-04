@@ -8,4 +8,4 @@ Senior Research Scientist @ [RISE AI](https://www.ri.se/en), and Partner @ [gava
 
 Creator of [metacurate.io](https://metacurate.io/)
 
-[LinkedIn](https://www.linkedin.com/in/folsson/) \| [Twitter](https://twitter.com/smudo) \| [Publications](https://scholar.google.se/citations?user=gFjdUJ8AAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/folsson/) \| [Twitter](https://twitter.com/smudo) \| [Publications](https://scholar.google.com/citations?hl=en&user=irkOXmAAAAAJ)
