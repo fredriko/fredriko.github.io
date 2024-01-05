@@ -1,10 +1,10 @@
 # Fredrik Olsson
 
-Ph.D., Computational linguistics
+Ph.D., Computational linguistics.
 
 Software developer and all things data enthusiast. 
 
-Senior Research Scientist @ [RISE AI](https://www.ri.se/en), and Partner @ [gavagai.se](http://gavagai.se)
+Head of Data Science @ [Gavagai](https://gavagai.io).
 
 Creator of [metacurate.io](https://metacurate.io/)
 
