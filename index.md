@@ -4,7 +4,7 @@ Ph.D., Computational linguistics.
 
 Software developer and all things data enthusiast. 
 
-Head of Data Science @ [Gavagai](https://gavagai.io).
+Insights Lead  @ [All Ears](https://en.allears.ai/).
 
 Creator of [metacurate.io](https://metacurate.io/)
 
